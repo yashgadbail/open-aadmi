@@ -259,7 +259,7 @@ export default function Home() {
         <Box sx={{ display: 'flex', alignItems: 'center', mb: 3 }}>
           <SearchIcon sx={{ mr: 1.5, color: theme.palette.primary.main }} />
           <Typography variant="h5" component="h1" fontWeight="600">
-            Web Assistant
+            Open Aadmi
           </Typography>
         </Box>
         
