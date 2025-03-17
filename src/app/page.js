@@ -258,7 +258,7 @@ export default function Home() {
       >
         <Box sx={{ display: 'flex', alignItems: 'center', mb: 3 }}>
           <SearchIcon sx={{ mr: 1.5, color: theme.palette.primary.main }} />
-          <Typography variant="h5" component="h1" fontWeight="600">
+          <Typography variant="h5" component="h1" fontWeight="600" color='black'>
             Web Assistant
           </Typography>
         </Box>
@@ -408,7 +408,7 @@ export default function Home() {
               borderBottom: '1px solid #e0e0e0',
               pb: 2
             }}>
-              <Typography variant="h5" fontWeight="600">
+              <Typography variant="h5" fontWeight="600" color='black'>
                 Search Results
               </Typography>
               

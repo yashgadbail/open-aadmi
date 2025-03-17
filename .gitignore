@@ -1,5 +1,9 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+
+Backend/__pycache__
+Backend/.vscode
+Backend/.venv
 # dependencies
 /node_modules
 /.pnp
